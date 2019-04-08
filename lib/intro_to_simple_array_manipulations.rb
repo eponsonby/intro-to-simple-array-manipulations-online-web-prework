@@ -10,6 +10,7 @@ end
 
 def using_pop(array)
   array.pop
+  # removes the last item in an array and returns it
 end
 
 def pop_with_args(array)
