@@ -20,6 +20,7 @@ end
 
 def using_shift(array)
   array.shift
+  # removes the first element and returns it
 end
 
 def shift_with_args(array)
