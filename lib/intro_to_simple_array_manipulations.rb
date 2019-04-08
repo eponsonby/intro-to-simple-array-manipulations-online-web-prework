@@ -45,6 +45,7 @@ end
 
 def using_flatten(array)
   array.flatten
+  # returns a new array that is one-dimensional
 end
 
 def using_delete(array, string)
