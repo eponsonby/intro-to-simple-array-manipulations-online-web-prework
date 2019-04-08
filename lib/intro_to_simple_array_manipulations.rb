@@ -5,7 +5,7 @@ end
 
 def using_unshift(array, string)
   array.unshift(string)
-  # adds new item to the beginning
+  # adds new item to the beginning of the array
 end
 
 def using_pop(array)
