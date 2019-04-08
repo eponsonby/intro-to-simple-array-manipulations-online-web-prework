@@ -15,6 +15,7 @@ end
 
 def pop_with_args(array)
   array.pop(2)
+  # returns an array of the last two elements
 end
 
 def using_shift(array)
