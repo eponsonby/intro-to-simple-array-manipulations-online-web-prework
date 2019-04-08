@@ -40,6 +40,7 @@ end
 
 def using_uniq(array)
   array.uniq
+  # removes duplicates and returns a new array
 end
 
 def using_flatten(array)
