@@ -1,5 +1,6 @@
 def using_push(array, string)
   array.push(string)
+# adds item to the end of the array
 end
 
 def using_unshift(array, string)
