@@ -50,7 +50,7 @@ end
 
 def using_delete(array, string)
   array.delete(string)
-  # deletes string from array and returns
+  # deletes string from array and returns deleted string
 end
 
 def using_delete_at(array, integer)
